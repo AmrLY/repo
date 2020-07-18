@@ -1,0 +1,23 @@
+<package>
+	<id>com.modernqx02.kernbypass</id>
+	<name>KernBypass</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.4.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>اداة تخطي اكتشاف الجيلبريك وتعتبر الافضل في مجالها</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

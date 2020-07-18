@@ -1,0 +1,23 @@
+<package>
+	<id>com.modernqx02.avrestqx02</id>
+	<name>AvrestPubgM18</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.5.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>منيو افرست ببجي موبايل 0.18.0 غير مسؤول عن الباند</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

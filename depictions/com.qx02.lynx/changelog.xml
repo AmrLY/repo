@@ -1,0 +1,38 @@
+<changelog>
+	<changes>
+		<version>1.5.4</version>
+		<change>
+Version 1.5.4
+Fixes
+
+• Fixes 3D Touch options not working
+
+Version 1.5.3
+Fixes
+
+• Fix compatibility with badge tweaks when average badge colors was disabled
+
+Version 1.5.2
+Fixes
+
+• Fixed safemode crash when 3D/Haptic touching a folder
+
+Version 1.5.1
+Fixes
+
+• Fixed double tap to lock feature locking device when editing icons • Fixed minimum number of homescreen colums, now can go as low as 1 • Fixed occasional freezing in Facebook app
+
+New Features
+
+• Added option to hide widget icon and text • Added option to set custom time format in status bar
+
+Version 1.5-2
+New features
+
+• Added option to allow for custom date formats in Messages when using 'Show exact time'
+
+Fixes
+
+• Fixed passcode screen bug • Fixed compatability with KillX and KillXPro • Fixed lockscreen clock alignment not setting • Fixed setting custom date string as carrier when string was empty</change>
+	</changes>
+</changelog>

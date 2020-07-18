@@ -1,0 +1,23 @@
+<package>
+	<id>com.modernqx02.choicytb</id>
+	<name>Old Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.5.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description> اداة Choicy للتحكم في الادوات التي تحقن في التطبيقات معدلة ومعربة من فريق تيم بوس https://t.me/HackBossAli</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

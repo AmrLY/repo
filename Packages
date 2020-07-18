@@ -1,3 +1,34 @@
+Package: com.modernqx02.lynx
+Version: 1.5.4
+Architecture: iphoneos-arm
+Maintainer: qx02 <nomail@mail.no>
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist | com.hackyouriphone.libsparkapplist, com.spark.libsparkcolourpicker | com.hackyouriphone.libsparkcolourpicker
+Filename: /Lynx1.5.4.deb
+Size: 845198
+MD5sum: 34832ddf8c630a2790e3a99615eac4f8
+SHA1: af00a23cd5904589b76eb4a747386bf47bdc4885
+SHA256: eb5a6838c115b80231f32926fee3dbc4385c998df78838dc01f1c297320d30c7
+Section: Tweaks
+Description: Lynx - A dynamic customization tweak for iOS 13
+Author: MTAC <nomail@mail.no)>
+Name: Lynx
+Depiction: https://modernqx02.github.io/repo/depictions/?p=com.qx02.lynx
+
+Package: com.modernqx02.codm1015hack
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: qx02 <nomail@mail.no>
+Filename: /CODMHACK1.0.15.deb
+Size: 180076
+MD5sum: 21ed0dca0866b7fa088f213774cedc1f
+SHA1: d63037178a5fde7d01524357e28758791179a2a6
+SHA256: cad67d5c7d339c40450c8bbbb71506dca48a42f085da98887a58fa366ed03868
+Section: Hacks
+Description: هاك كول اوف ديوتي موبايل اصدار 1.0.15 (يحتاج له حماية) غير مسؤول عن اي باند
+Author: qx02 <nomail@mail.no>
+Name: Call of Duty Mobile 1.0.15 Hack
+Depiction: https://modernqx02.github.io/repo/depictions/?p=com.qx02.codm1015hack
+
 Package: com.modernqx02.avrestqx02
 Version: 1.0
 Architecture: iphoneos-arm
@@ -11,3 +42,97 @@ Section: Hacks
 Description: منيو افرست ببجي موبايل 0.18.0 غير مسؤول عن الباند
 Author: qx02 <nomail@mail.no>
 Name: AvrestPubgM18
+Depiction: https://modernqx02.github.io/repo/depictions/?p=com.qx02.avrestqx02
+
+Package: com.modernqx02.fahadqx02
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: qx02 <nomail@mail.no>
+Filename: /FahaD0.18.deb
+Size: 208032
+MD5sum: 873ab48e4603568623828e3bfa157f8a
+SHA1: cfa1cd19c3b3503740031ddd4a0d47eb7b23c041
+SHA256: 151c566c05640f367b60c2cb662325abe82900b5a0814ed9c9038fab54b6ace4
+Section: Hacks
+Description: منيو فهد ببجي موبايل غير مسؤول عن الباند
+Author: qx02 <nomail@mail.no>
+Name: FahaD0.18
+Depiction: https://modernqx02.github.io/repo/depictions/?p=com.qx02.fahadqx02
+
+Package: com.modernqx02.tbpubgkr18qx02
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: qx02 <nomail@mail.no>
+Filename: /TBChinesePubgKR.deb
+Size: 102740
+MD5sum: ee06957dae2992f2073e70d197d42710
+SHA1: 498fa6fc673ae690e5014e6de060e032fade8119
+SHA256: 03ec529adca095aaebd348fac04eaad90b50de6c0fa9ec946371a692937bfe21
+Section: Hacks
+Description: الهاك الصيني ببجي الكورية معدل من قبل فريق تيم بوس https://t.me/HackBossAli
+Author: qx02 <nomail@mail.no>
+Name: PubgKR(TeamBoSS)ChineseMenu
+Depiction: https://modernqx02.github.io/repo/depictions/?p=com.qx02.tbpubgkr18qx02
+
+Package: com.modernqx02.choicytb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: qx02 <nomail@mail.no>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Filename: /TeamBoSSChoicy.deb
+Size: 234384
+MD5sum: 40b27a9816a4ba3ba3b772c347ba894c
+SHA1: de51ac06ead89a58d0525db093898bc9a6e3674d
+SHA256: e6c10a2c6d98ab41a22dee0ceb267f082528f5afd25a400686787de46b7c17f3
+Section: Tweaks
+Description: اداة Choicy للتحكم في الادوات التي تحقن في التطبيقات معدلة ومعربة من فريق تيم بوس https://t.me/HackBossAli
+Author: qx02 <nomail@mail.no>
+Name: Choicy(TeamBoSS)ar
+Depiction: https://modernqx02.github.io/repo/depictions/?p=com.qx02.choicytb
+
+Package: com.modernqx02.adguardhacktb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: qx02 <nomail@mail.no>
+Filename: /AdGuardHackTB.deb
+Size: 6226
+MD5sum: e660c07f2ecbadd12bed0c8005699d60
+SHA1: 621c770359b11258de00ee0b5c2af694d7dea9ee
+SHA256: 537b2d85db67012b34211060ddf6c2869ea5aa6ae641a60170610eda35d694c7
+Section: Hacks
+Description: كراك تطبيق AdGuard يمنح لك مميزات premium من قبل تيم بوس https://t.me/HackBossAli
+Author: qx02 <nomail@mail.no>
+Name: AdGuardHackPremium(TeamBoSS)
+Depiction: https://modernqx02.github.io/repo/depictions/?p=com.qx02.adguardhacktb
+
+Package: com.modernqx02.kernbypass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: qx02 <nomail@mail.no>
+Depends: mobilesubstrate, applist, preferenceloader, Firmware(>=13.0)
+Filename: /KernBypass.deb
+Size: 11774
+MD5sum: c2ba3079046c76f5ec3782bfc0b3afcc
+SHA1: 76fb81c10d040f022766a1a314a7a3fa1361b2c6
+SHA256: 0e641ec2b31d9e13cd419cd7df70cb7979089a6911cdaa6087c6230a27a13061
+Section: Tweaks
+Description: اداة تخطي اكتشاف الجيلبريك وتعتبر الافضل في مجالها
+Author: akusio <nomail@mail.no>
+Name: KernBypass
+Depiction: https://modernqx02.github.io/repo/depictions/?p=com.qx02.kernbypass
+
+Package: com.modernqx02.magictiles3hack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: qx02 <nomail@mail.no>
+Filename: /MagicTiles3Hack.deb
+Size: 2346524
+MD5sum: f588731dd455f781b3646ee8d427cdae
+SHA1: f448e7096df136f9e5cbec4885960f9d370575c6
+SHA256: 1ee1098fdb33b16743947bff19d3743dd3409c5420a557b4d0dd7f3e4d738657
+Section: Hacks
+Description: هاك لعبة MagicTiles فتح كل الاغاني وموارد غير محدودة
+Author: qx02 <nomail@mail.no>
+Name: MagicTiles3Hack
+<<<<<<< HEAD
+Depiction: https://modernqx02.github.io/repo/depictions/?p=com.qx02.magictiles3hack

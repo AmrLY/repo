@@ -1,0 +1,23 @@
+<package>
+	<id>com.modernqx02.codm1015hack</id>
+	<name>Call of Duty Mobile 1.0.15 Hack</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.5.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description> هاك كول اوف ديوتي موبايل اصدار 1.0.15 (يحتاج له حماية) غير مسؤول عن اي باند</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
