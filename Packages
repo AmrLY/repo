@@ -109,7 +109,7 @@ Package: com.modernqx02.kernbypass
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: qx02 <nomail@mail.no>
-Depends: mobilesubstrate, applist, preferenceloader, Firmware(>=13.0)
+Depends: mobilesubstrate, applist, preferenceloader, Firmware(<=13.0)
 Filename: /debs/KernBypass.deb
 Size: 11774
 MD5sum: c2ba3079046c76f5ec3782bfc0b3afcc
