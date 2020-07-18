@@ -3,7 +3,7 @@ Version: 1.5.4
 Architecture: iphoneos-arm
 Maintainer: qx02 <nomail@mail.no>
 Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist | com.hackyouriphone.libsparkapplist, com.spark.libsparkcolourpicker | com.hackyouriphone.libsparkcolourpicker
-Filename: /Lynx1.5.4.deb
+Filename: /debs/Lynx1.5.4.deb
 Size: 845198
 MD5sum: 34832ddf8c630a2790e3a99615eac4f8
 SHA1: af00a23cd5904589b76eb4a747386bf47bdc4885
@@ -18,7 +18,7 @@ Package: com.modernqx02.codm1015hack
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: qx02 <nomail@mail.no>
-Filename: /CODMHACK1.0.15.deb
+Filename: /debs/CODMHACK1.0.15.deb
 Size: 180076
 MD5sum: 21ed0dca0866b7fa088f213774cedc1f
 SHA1: d63037178a5fde7d01524357e28758791179a2a6
@@ -33,7 +33,7 @@ Package: com.modernqx02.avrestqx02
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: qx02 <nomail@mail.no>
-Filename: /AverestPUBG18.deb
+Filename: /debs/AverestPUBG18.deb
 Size: 463128
 MD5sum: f152558df68b105bd585d496c0550ae1
 SHA1: 60aa03b349388fb1ee82380ef0eb815ef2d6baa5
@@ -48,7 +48,7 @@ Package: com.modernqx02.fahadqx02
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: qx02 <nomail@mail.no>
-Filename: /FahaD0.18.deb
+Filename: /debs/FahaD0.18.deb
 Size: 208032
 MD5sum: 873ab48e4603568623828e3bfa157f8a
 SHA1: cfa1cd19c3b3503740031ddd4a0d47eb7b23c041
@@ -63,7 +63,7 @@ Package: com.modernqx02.tbpubgkr18qx02
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: qx02 <nomail@mail.no>
-Filename: /TBChinesePubgKR.deb
+Filename: /debs/TBChinesePubgKR.deb
 Size: 102740
 MD5sum: ee06957dae2992f2073e70d197d42710
 SHA1: 498fa6fc673ae690e5014e6de060e032fade8119
@@ -79,7 +79,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: qx02 <nomail@mail.no>
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
-Filename: /TeamBoSSChoicy.deb
+Filename: /debs/TeamBoSSChoicy.deb
 Size: 234384
 MD5sum: 40b27a9816a4ba3ba3b772c347ba894c
 SHA1: de51ac06ead89a58d0525db093898bc9a6e3674d
@@ -94,7 +94,7 @@ Package: com.modernqx02.adguardhacktb
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: qx02 <nomail@mail.no>
-Filename: /AdGuardHackTB.deb
+Filename: /debs/AdGuardHackTB.deb
 Size: 6226
 MD5sum: e660c07f2ecbadd12bed0c8005699d60
 SHA1: 621c770359b11258de00ee0b5c2af694d7dea9ee
@@ -110,7 +110,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: qx02 <nomail@mail.no>
 Depends: mobilesubstrate, applist, preferenceloader, Firmware(>=13.0)
-Filename: /KernBypass.deb
+Filename: /debs/KernBypass.deb
 Size: 11774
 MD5sum: c2ba3079046c76f5ec3782bfc0b3afcc
 SHA1: 76fb81c10d040f022766a1a314a7a3fa1361b2c6
@@ -125,7 +125,7 @@ Package: com.modernqx02.magictiles3hack
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: qx02 <nomail@mail.no>
-Filename: /MagicTiles3Hack.deb
+Filename: /debs/MagicTiles3Hack.deb
 Size: 2346524
 MD5sum: f588731dd455f781b3646ee8d427cdae
 SHA1: f448e7096df136f9e5cbec4885960f9d370575c6
