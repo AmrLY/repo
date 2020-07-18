@@ -12,7 +12,7 @@ Section: Tweaks
 Description: Lynx - A dynamic customization tweak for iOS 13
 Author: MTAC <nomail@mail.no)>
 Name: Lynx
-Depiction: https://modernqx02.github.io/repo/depictions/?p=com.qx02.lynx
+Depiction: https://amrly.github.io/repo/depictions/?p=com.qx02.lynx
 
 Package: com.modernqx02.codm1015hack
 Version: 1.0.0
@@ -27,7 +27,7 @@ Section: Hacks
 Description: هاك كول اوف ديوتي موبايل اصدار 1.0.15 (يحتاج له حماية) غير مسؤول عن اي باند
 Author: qx02 <nomail@mail.no>
 Name: Call of Duty Mobile 1.0.15 Hack
-Depiction: https://modernqx02.github.io/repo/depictions/?p=com.qx02.codm1015hack
+Depiction: https://amrly.github.io/repo/depictions/?p=com.qx02.codm1015hack
 
 Package: com.modernqx02.avrestqx02
 Version: 1.0
@@ -42,7 +42,7 @@ Section: Hacks
 Description: منيو افرست ببجي موبايل 0.18.0 غير مسؤول عن الباند
 Author: qx02 <nomail@mail.no>
 Name: AvrestPubgM18
-Depiction: https://modernqx02.github.io/repo/depictions/?p=com.qx02.avrestqx02
+Depiction: https://amrly.github.io/repo/depictions/?p=com.qx02.avrestqx02
 
 Package: com.modernqx02.fahadqx02
 Version: 1.0
@@ -57,7 +57,7 @@ Section: Hacks
 Description: منيو فهد ببجي موبايل غير مسؤول عن الباند
 Author: qx02 <nomail@mail.no>
 Name: FahaD0.18
-Depiction: https://modernqx02.github.io/repo/depictions/?p=com.qx02.fahadqx02
+Depiction: https://amrly.github.io/repo/depictions/?p=com.qx02.fahadqx02
 
 Package: com.modernqx02.tbpubgkr18qx02
 Version: 1.0
@@ -72,7 +72,7 @@ Section: Hacks
 Description: الهاك الصيني ببجي الكورية معدل من قبل فريق تيم بوس https://t.me/HackBossAli
 Author: qx02 <nomail@mail.no>
 Name: PubgKR(TeamBoSS)ChineseMenu
-Depiction: https://modernqx02.github.io/repo/depictions/?p=com.qx02.tbpubgkr18qx02
+Depiction: https://amrly.github.io/repo/depictions/?p=com.qx02.tbpubgkr18qx02
 
 Package: com.modernqx02.choicytb
 Version: 1.0
@@ -88,7 +88,7 @@ Section: Tweaks
 Description: اداة Choicy للتحكم في الادوات التي تحقن في التطبيقات معدلة ومعربة من فريق تيم بوس https://t.me/HackBossAli
 Author: qx02 <nomail@mail.no>
 Name: Choicy(TeamBoSS)ar
-Depiction: https://modernqx02.github.io/repo/depictions/?p=com.qx02.choicytb
+Depiction: https://amrly.github.io/repo/depictions/?p=com.qx02.choicytb
 
 Package: com.modernqx02.adguardhacktb
 Version: 1.0
@@ -103,7 +103,7 @@ Section: Hacks
 Description: كراك تطبيق AdGuard يمنح لك مميزات premium من قبل تيم بوس https://t.me/HackBossAli
 Author: qx02 <nomail@mail.no>
 Name: AdGuardHackPremium(TeamBoSS)
-Depiction: https://modernqx02.github.io/repo/depictions/?p=com.qx02.adguardhacktb
+Depiction: https://amrly.github.io/repo/depictions/?p=com.qx02.adguardhacktb
 
 Package: com.modernqx02.kernbypass
 Version: 0.0.1
@@ -119,7 +119,7 @@ Section: Tweaks
 Description: اداة تخطي اكتشاف الجيلبريك وتعتبر الافضل في مجالها
 Author: akusio <nomail@mail.no>
 Name: KernBypass
-Depiction: https://modernqx02.github.io/repo/depictions/?p=com.qx02.kernbypass
+Depiction: https://amrly.github.io/repo/depictions/?p=com.qx02.kernbypass
 
 Package: com.modernqx02.magictiles3hack
 Version: 1.0
@@ -135,4 +135,4 @@ Description: هاك لعبة MagicTiles فتح كل الاغاني وموارد 
 Author: qx02 <nomail@mail.no>
 Name: MagicTiles3Hack
 <<<<<<< HEAD
-Depiction: https://modernqx02.github.io/repo/depictions/?p=com.qx02.magictiles3hack
+Depiction: https://amrly.github.io/repo/depictions/?p=com.qx02.magictiles3hack
